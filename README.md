@@ -25,5 +25,7 @@ The dataset contains 36 numerical values and 43 categorical values. The numerica
 - we used the features selected during the EDA step and applied the same models. 
 - the best score RMSE=12055 was achieved by using Lasso Regression with all variables.
 
-![](/Images/Model%20Comparation.png)
-<img src="/Images/Model%20Comparation.png" alt="drawing" width="200"/>
+<p align="center">
+<img src="/Images/Model%20Comparation.png" alt="drawing" width="300"/>
+</p>
+
