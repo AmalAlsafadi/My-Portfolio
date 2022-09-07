@@ -24,3 +24,5 @@ The dataset contains 36 numerical values and 43 categorical values. The numerica
 - We used Lasso, Ridge, Elasticnet and Random Forest regression models and tuned their parameters to get the best model. 
 - we used the features selected during the EDA step and applied the same models. 
 - the best score RMSE=12055 was achieved by using Lasso Regression with all variables.
+
+![](/images/Model Comparation.png)
